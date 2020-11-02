@@ -1,0 +1,2 @@
+D:\coding\c_project\LearningCBasic\Debug\LearningCBasic.exe
+D:\coding\c_project\LearningCBasic\Debug\LearningCBasic.pdb
